@@ -380,7 +380,7 @@ class Diag extends Component {
 
       svg.appendChild(this.getPolygon(poly, datas.colors[i]))
 
-      var whiteIdx = this.state.shape === 'sharp' ? 5 : 3
+      var whiteIdx = this.state.shape === 'sharp' ? -1 : -1
 
       svg.appendChild(
         this.getText({
