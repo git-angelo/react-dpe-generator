@@ -10,49 +10,49 @@ class Diag extends Component {
       {
         min: null,
         max: 50,
-        color: '#319834',
+        color: '#009C6D',
         textColor: '#ffffff',
         label: 'A'
       },
       {
         min: 51,
         max: 90,
-        color: '#33cc31',
+        color: '#52B153',
         textColor: '#ffffff',
         label: 'B'
       },
       {
         min: 91,
         max: 150,
-        color: '#cbfc34',
+        color: '#78BD76',
         textColor: '#ffffff',
         label: 'C'
       },
       {
         min: 151,
         max: 230,
-        color: '#fbfe06',
+        color: '#F4E70F',
         textColor: '#ffffff',
         label: 'D'
       },
       {
         min: 231,
         max: 330,
-        color: '#fbcc05',
+        color: '#F0B50F',
         textColor: '#ffffff',
         label: 'E'
       },
       {
         min: 331,
         max: 450,
-        color: '#fc9935',
+        color: '#EB8235',
         textColor: '#ffffff',
         label: 'F'
       },
       {
         min: 451,
         max: null,
-        color: '#fc0205',
+        color: '#D7221F',
         textColor: '#ffffff',
         label: 'G'
       }
@@ -439,49 +439,49 @@ export function DPE(props) {
     {
       min: null,
       max: 50,
-      color: '#319834',
+      color: '#009C6D',
       textColor: '#ffffff',
       label: 'A'
     },
     {
       min: 51,
       max: 90,
-      color: '#33cc31',
+      color: '#52B153',
       textColor: '#ffffff',
       label: 'B'
     },
     {
       min: 91,
       max: 150,
-      color: '#cbfc34',
+      color: '#78BD76',
       textColor: '#ffffff',
       label: 'C'
     },
     {
       min: 151,
       max: 230,
-      color: '#fbfe06',
+      color: '#F4E70F',
       textColor: '#ffffff',
       label: 'D'
     },
     {
       min: 231,
       max: 330,
-      color: '#fbcc05',
+      color: '#F0B50F',
       textColor: '#ffffff',
       label: 'E'
     },
     {
       min: 331,
       max: 450,
-      color: '#fc9935',
+      color: '#EB8235',
       textColor: '#ffffff',
       label: 'F'
     },
     {
       min: 451,
       max: null,
-      color: '#fc0205',
+      color: '#D7221F',
       textColor: '#ffffff',
       label: 'G'
     }
