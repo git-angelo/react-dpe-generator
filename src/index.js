@@ -495,49 +495,49 @@ export function GES(props) {
     {
       min: null,
       max: 5,
-      color: '#f2eff4',
-      textColor: '#000000',
+      color: '#A4DBF8',
+      textColor: '#ffffff',
       label: 'A'
     },
     {
       min: 6,
       max: 10,
-      color: '#dfc1f7',
-      textColor: '#000000',
+      color: '#8CB4D3',
+      textColor: '#ffffff',
       label: 'B'
     },
     {
       min: 11,
       max: 20,
-      color: '#d6aaf4',
-      textColor: '#000000',
+      color: '#7792B1',
+      textColor: '#ffffff',
       label: 'C'
     },
     {
       min: 21,
       max: 35,
-      color: '#cc93f4',
-      textColor: '#000000',
+      color: '#7792B1',
+      textColor: '#ffffff',
       label: 'D'
     },
     {
       min: 36,
       max: 55,
-      color: '#bb72f3',
+      color: '#4D5271',
       textColor: '#ffffff',
       label: 'E'
     },
     {
       min: 56,
       max: 80,
-      color: '#a94cee',
+      color: '#393551',
       textColor: '#ffffff',
       label: 'F'
     },
     {
       min: 81,
       max: null,
-      color: '#8b1ae1',
+      color: '#140622',
       textColor: '#ffffff',
       label: 'G'
     }
