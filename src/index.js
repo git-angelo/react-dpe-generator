@@ -11,42 +11,42 @@ class Diag extends Component {
         min: null,
         max: 50,
         color: '#319834',
-        textColor: '#000000',
+        textColor: '#ffffff',
         label: 'A'
       },
       {
         min: 51,
         max: 90,
         color: '#33cc31',
-        textColor: '#000000',
+        textColor: '#ffffff',
         label: 'B'
       },
       {
         min: 91,
         max: 150,
         color: '#cbfc34',
-        textColor: '#000000',
+        textColor: '#ffffff',
         label: 'C'
       },
       {
         min: 151,
         max: 230,
         color: '#fbfe06',
-        textColor: '#000000',
+        textColor: '#ffffff',
         label: 'D'
       },
       {
         min: 231,
         max: 330,
         color: '#fbcc05',
-        textColor: '#000000',
+        textColor: '#ffffff',
         label: 'E'
       },
       {
         min: 331,
         max: 450,
         color: '#fc9935',
-        textColor: '#000000',
+        textColor: '#ffffff',
         label: 'F'
       },
       {
@@ -440,42 +440,42 @@ export function DPE(props) {
       min: null,
       max: 50,
       color: '#319834',
-      textColor: '#000000',
+      textColor: '#ffffff',
       label: 'A'
     },
     {
       min: 51,
       max: 90,
       color: '#33cc31',
-      textColor: '#000000',
+      textColor: '#ffffff',
       label: 'B'
     },
     {
       min: 91,
       max: 150,
       color: '#cbfc34',
-      textColor: '#000000',
+      textColor: '#ffffff',
       label: 'C'
     },
     {
       min: 151,
       max: 230,
       color: '#fbfe06',
-      textColor: '#000000',
+      textColor: '#ffffff',
       label: 'D'
     },
     {
       min: 231,
       max: 330,
       color: '#fbcc05',
-      textColor: '#000000',
+      textColor: '#ffffff',
       label: 'E'
     },
     {
       min: 331,
       max: 450,
       color: '#fc9935',
-      textColor: '#000000',
+      textColor: '#ffffff',
       label: 'F'
     },
     {
